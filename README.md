@@ -81,7 +81,7 @@ gpt-oss-gradio-chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone [YOUR_REPOSITORY_URL](https://github.com/testcyber020-hub/gpt-oss-gradio-chatbot.git)
 cd gpt-oss-gradio-chatbot
 ```
 
